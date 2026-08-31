@@ -9,6 +9,7 @@
   "byu|utah": "HOLY WAR",
   "california|stanford": "BIG GAME",
   "cincinnati|miami (oh)": "VICTORY BELL",
+  "clemson|lsu": "BATTLE FOR DEATH VALLEY",
   "clemson|south carolina": "PALMETTO BOWL",
   "florida|florida state": "SUNSHINE SHOWDOWN",
   "florida|georgia": "WORLD'S LARGEST OUTDOOR COCKTAIL PARTY",
@@ -22,6 +23,7 @@
   "iowa|nebraska": "HEROES TROPHY",
   "kansas|kansas state": "SUNFLOWER SHOWDOWN",
   "kansas|missouri": "BORDER WAR",
+  "liberty|james madison": "BATTLE OF THE BLUE RIDGE",
   "louisville|uk": "GOVERNOR'S CUP",
   "lsu|arkansas": "GOLDEN BOOT",
   "lsu|tulane": "TIGER RAG",
@@ -40,6 +42,7 @@
   "smu|tcu": "IRON SKILLET",
   "texas|texas a&m": "LONE STAR SHOWDOWN",
   "ucla|usc": "VICTORY BELL",
+  "unlv|hawai'i": "NINTH ISLAND SHOWDOWN",
   "virginia|virginia tech": "COMMONWEALTH CUP",
   "washington|washington state": "APPLE CUP"
 }
